@@ -39,8 +39,8 @@ We are a group of passionate engineering students from [Model Engineering Colleg
 
 ## 📬 Connect With Us
 Follow our journey as we build smarter skies:  
-🌐 [spaceborn.dev](#) *(coming soon)*  
-📧 contact@spaceborn.dev  
+🌐 [spaceborn.in](#) 
+📧 contact@spaceborn.in
 🐦 [@SpacebornAI](#)  
 💡 Contributions, collaborators, and mentors are always welcome!  
 
