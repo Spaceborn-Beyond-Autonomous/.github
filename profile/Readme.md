@@ -91,10 +91,11 @@ Spaceborn is built by engineers working across:
 
 ## Contact
 
-Website: https://spaceborn.in  
+Website: https://www.spaceborn.in  
 Email: contact@spaceborn.in  
+Linkedin: https://www.linkedin.com/company/spaceborn-future/
 X / Twitter: https://x.com/Spaceborn
-Instagram: Spaceborn.in
+Instagram: https://www.instagram.com/spaceborn.in
 
 ---
 
