@@ -1,49 +1,103 @@
-# 🛰️ Spaceborn - Beyond Autonomous
+```md id="hv8xry"
+# Spaceborn — Beyond Autonomous
 
-**Spaceborn - Beyond Autonomous** is a student-founded startup exploring the future of **AI-enabled autonomous drones** for security, surveillance, and intelligent monitoring. Our mission is to build systems that go beyond manual control—merging computer vision, embedded intelligence, and advanced robotics to create truly autonomous aerial solutions.
+### Building ANSA — a simulation-first autonomy OS for intelligent aerial and robotic systems.
 
----
-
-## 🚀 Our Vision
-We aim to redefine aerial security through innovation in:
-- **Autonomous Navigation** — Drones capable of perceiving, planning, and adapting in real time.  
-- **AI-Driven Surveillance** — Integrating machine learning to detect, track, and respond to anomalies autonomously.  
-- **Edge Computing Integration** — Running intelligence directly on-board with minimal latency.  
-- **Collaborative Swarm Intelligence** — Coordinating multiple drones for collaborative missions.
+“Beyond flight. Beyond control. Beyond autonomous.”
 
 ---
 
-## 🧠 What We Build
-Our team is actively developing:
-- Custom flight control and autonomy systems  
-- Object detection and tracking modules using deep learning  
-- Secure communication and ground control interfaces  
-- Prototypes for AI-assisted security patrol and perimeter defense  
+## About Spaceborn
+
+Spaceborn is a software-first autonomy engineering organization building ANSA (Autonomous Navigation & Safety Architecture) — a hardware-agnostic autonomy stack for intelligent drones, robotics, and future autonomous systems.
+
+Our mission is to develop scalable autonomy infrastructure through simulation-first engineering, real-time control systems, AI-assisted perception, and intelligent mission architecture.
+
+We believe the future of autonomous systems will be defined not only by hardware, but by the intelligence layer that controls it.
 
 ---
 
-## 🧩 Tech Stack
-Some of the technologies powering Spaceborn’s vision:
-- **AI/ML:** PyTorch, TensorFlow, OpenCV  
-- **Embedded Systems:** Raspberry Pi, ESP32, Pixhawk, Jetson  
-- **Backend & Control:** ROS, Python, Django / FastAPI  
-- **Frontend & Visualization:** Next.js, Three.js, WebSocket Dashboards  
-- **Cloud & Storage:** PostgreSQL, MQTT, AWS / NeonDB  
+## Vision
+
+Spaceborn is focused on building the foundational autonomy layer for next-generation aerial and robotic systems through:
+
+- Autonomous navigation and mission systems
+- Digital twin and simulation infrastructure
+- Real-time control and safety architecture
+- AI-assisted perception pipelines
+- Hardware abstraction systems (HAL)
+- Multi-agent and swarm coordination
+- Telemetry, analytics, and mission replay systems
 
 ---
 
-## 🧑‍💻 Our Team
-We are a group of passionate engineering students from [Model Engineering College, Kerala](https://www.mec.ac.in/), combining expertise in computer science, electronics, and robotics to push the boundaries of autonomous flight.
+## What We Build
+
+- Flight control and autonomy systems
+- Simulation-first testing environments
+- Ground control and telemetry infrastructure
+- Sensor fusion and perception pipelines
+- AI-assisted navigation systems
+- Mission planning and safety architecture
+- Digital twin environments
+- Autonomous systems research infrastructure
 
 ---
 
-## 📬 Connect With Us
-Follow our journey as we build smarter skies:  
-🌐 [spaceborn.in](#) 
-📧 contact@spaceborn.in
-🐦 [@SpacebornAI](#)  
-💡 Contributions, collaborators, and mentors are always welcome!  
+## Technology Stack
+
+### AI / ML
+PyTorch · TensorFlow · OpenCV · ONNX Runtime
+
+### Embedded & Robotics
+ESP32 · Raspberry Pi · Pixhawk · Jetson · STM32
+
+### Backend & Control
+ROS2 · Python · FastAPI · MAVLink · MQTT
+
+### Frontend & Visualization
+Next.js · Three.js · WebSockets
+
+### Infrastructure & Cloud
+PostgreSQL · Docker · AWS · Linux
 
 ---
 
-> “Beyond flight. Beyond control. Beyond autonomous.”  
+## Engineering Philosophy
+
+Spaceborn follows a strict simulation-first development model:
+
+- Simulation before hardware
+- Safety before deployment
+- Modular architecture before scaling
+- Hardware-agnostic system design
+- Real-world validation through digital twins
+
+Every subsystem is designed to be testable, scalable, reproducible, and deployment-ready before physical integration.
+
+---
+
+## Team
+
+Spaceborn is built by engineers working across:
+
+- Autonomy Systems
+- Robotics and Simulation
+- Embedded Systems
+- AI and Perception
+- Ground Control Infrastructure
+- Aerospace and Flight Systems
+
+---
+
+## Contact
+
+Website: https://spaceborn.in  
+Email: contact@spaceborn.in  
+X / Twitter: https://x.com/Spaceborn
+Instagram: Spaceborn.in
+
+---
+
+Building the intelligence layer for autonomous systems.
+```
