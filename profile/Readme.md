@@ -1,4 +1,3 @@
-```md id="hv8xry"
 # Spaceborn — Beyond Autonomous
 
 ### Building ANSA — a simulation-first autonomy OS for intelligent aerial and robotic systems.
